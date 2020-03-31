@@ -9,5 +9,6 @@ h1 {
 	margin: 0 auto;
 	padding: 48 px 0;
 	font-size: 24 px;
+	display: -ms-flexbox;
 	display: flex
 }
